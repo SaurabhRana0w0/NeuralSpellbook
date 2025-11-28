@@ -16,11 +16,17 @@ Whether you're building software, generating visuals, conducting scientific rese
 
 ## 📂 Structure
 📚 NeuralSpellbook/
+
  ├─ 🧩 General/
+ 
  ├─ 🧪 Research/
+ 
  ├─ 🛠️ Development/
+ 
  ├─ 🎨 Creative/
+ 
  ├─ 🧬 Advanced Reasoning/
+ 
  └─ 🗝️ Templates/
 
 ---
