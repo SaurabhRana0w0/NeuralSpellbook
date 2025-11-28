@@ -4,7 +4,6 @@
 
 > **Turn thoughts into command.**
 
----
 
 ## 🚀 Overview
 
